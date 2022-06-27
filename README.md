@@ -1,24 +1,18 @@
-# vue-canvas
+# vue-canvas-learn
 
-## Project setup
-```
-pnpm install
-```
+vue canvas personal learning.
 
-### Compiles and hot-reloads for development
-```
-pnpm run serve
-```
 
-### Compiles and minifies for production
-```
-pnpm run build
-```
 
-### Lints and fixes files
-```
-pnpm run lint
-```
+Dependence:
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+* element-ui
+
+
+# reference：
+
+[w-xuefeng/drawing](https://github.com/w-xuefeng/drawing)
+
+[ArthurDarkstone/vue-canvas](https://github.com/ArthurDarkstone/vue-canvas)
+
+[daqianduanshuo/vuefabric](https://github.com/daqianduanshuo/vuefabric)
